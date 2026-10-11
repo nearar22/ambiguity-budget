@@ -18,3 +18,12 @@ genvm-lint lint contracts/ambiguity_budget.py --json
 ```
 
 The `docs/` records are synthetic test fixtures. They are not operational instructions. Target: GenLayer Studio Next (`61997`).
+
+## Verified deployment
+
+- Contract: `0x51Fd98ebe2b14B79B6e07A2406b1bFFFfF42B752`
+- Deployed source matches reviewed source: `true`
+- Final assessment: `ambiguity-demo-mv4aqlod`
+- Stored outcome: `CLARIFICATION_REQUIRED` with `2` distinct readings
+
+See `deployment.json` for the deployment and full lifecycle transaction hashes.
