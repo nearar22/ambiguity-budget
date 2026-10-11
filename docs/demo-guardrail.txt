@@ -1,0 +1,5 @@
+DEMO EXECUTION GUARDRAIL — SYNTHETIC FIXTURE
+
+Agents may edit generated export files, but deletion of customer records requires explicit human approval. Audit summaries must remain available for ninety days. When target scope is unclear, the agent must request clarification before acting.
+
+This text exists only for the AmbiguityBudget Studio Next smoke test.

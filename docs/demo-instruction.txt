@@ -1,0 +1,5 @@
+DEMO AGENT INSTRUCTION — SYNTHETIC FIXTURE
+
+Clean the customer export after the migration is complete. Keep the summary for the audit team. The word clean is not further defined: it may refer to normalizing the generated document or removing the represented records.
+
+This text exists only for the AmbiguityBudget Studio Next smoke test.
